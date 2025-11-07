@@ -57,7 +57,7 @@ nav ul {
 nav ul li a {
   text-decoration: none;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
   transition: color 0.3s ease;
 }
 /* biar aktif di halaman tertentu */
@@ -583,3 +583,4 @@ html {
     font-size: 18px;
   }
 }
+
